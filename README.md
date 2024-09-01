@@ -49,7 +49,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://x.com/AcharyasBytes)
-- or Reach out to me @ [Aaditya Acharya](uaa.acharya@gmail.com)
+- or Reach out to me @ uaa.acharya@gmail.com
 
 Thanks for stopping by! Let's connect and create in this world of technology together. 🚀
 

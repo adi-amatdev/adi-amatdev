@@ -22,7 +22,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,linux,ubuntu,mongodb,postgres,dynamodb,py,ts,nodejs,js,npm,html,css,express,flask,postman,vscode,git,github&perline=4" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,linux,ubuntu,mongodb,postgres,dynamodb,py,ts,nodejs,js,npm,html,css,express,flask,postman,vscode,git,github&perline=10" alt="My Skills" />
   </a>
 </div>
 

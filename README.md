@@ -2,7 +2,7 @@
 
 I'm a CS Graduate from the class of 2024, fueled by great ambition and armed with an algorithmic battering ram to hack apart any problem.
 
-![adi-amatdev's Stats](https://github-readme-stats.vercel.app/api?username=adi-amatdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!--  ![adi-amatdev's Stats](https://github-readme-stats.vercel.app/api?username=adi-amatdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
 ## 🚀 About Me
 

@@ -9,7 +9,6 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 - 📝 I dive deep into problem statements, enjoying the process of understanding and architecting end-to-end solutions.
 - 🌐 I'm excited to contribute to and create open-source projects and build next-generation scalable solutions through SaaS.
 - 🤖 Passionate about leveraging generative AI to amplify productivity and drive innovation.
-- 💬 I strongly believe in the developer's philosophy of discussing and developing ideas collaboratively, rather than just solving puzzles to showcase technical skills.
 
 
 <!--

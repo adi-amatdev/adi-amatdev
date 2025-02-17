@@ -2,14 +2,11 @@
 
 I'm a CS Graduate from the class of 2024, fueled by great ambition and armed with an algorithmic battering ram to hack apart any problem.
 
- ![adi-amatdev's Stats](https://github-readme-stats.vercel.app/api?username=adi-amatdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!--  ![adi-amatdev's Stats](https://github-readme-stats.vercel.app/api?username=adi-amatdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 ## 🚀 About Me
 
 - 🔭 I'm currently interning at [iTAS Innovations Pvt. Ltd](https://itasin.com/).
 - 📝 I dive deep into problem statements, enjoying the process of understanding and architecting end-to-end solutions.
-- 🌐 I'm excited to contribute to and create open-source projects and build next-generation scalable solutions through SaaS.
-- 🤖 Passionate about leveraging generative AI to amplify productivity and drive innovation.
-
 
 <!--
 ## My Articles
@@ -32,8 +29,10 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 ## 🌱 Currently Exploring
 
 - 🚀 Perfecting the MERN stack (MongoDB, Express, React, Node.js) to build full-stack applications.
+<!-- 
 - 🌐 Diving into Go for its concurrency and performance benefits in backend development.
 - 🗃️ Learning PostgreSQL for advanced database management and optimization.
+-->
 - ✨ Exploring TypeScript to enhance JavaScript with static types for better code quality.
 - 🔍 Investigating diverse frameworks and libraries to stay current with industry trends.
 - ☁️ Deeply exploring AWS technologies and AWS SDKs to optimize cloud infrastructure and services.

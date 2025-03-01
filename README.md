@@ -5,7 +5,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 <!--  ![adi-amatdev's Stats](https://github-readme-stats.vercel.app/api?username=adi-amatdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 ## 🚀 About Me
 
-- 🔭 I'm currently interning at [iTAS Innovations Pvt. Ltd](https://itasin.com/).
+- 🔭 I'm currently working at [iTAS Innovations Pvt. Ltd](https://itasin.com/).
 - 📝 I dive deep into problem statements, enjoying the process of understanding and architecting end-to-end solutions.
 
 <!--

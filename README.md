@@ -30,7 +30,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 
 - 🚀 Perfecting the MERN stack (MongoDB, Express, React, Node.js) to build full-stack applications.
 <!-- 
-- 🌐 Diving into Go for its concurrency and performance benefits in backend development.
+- 🌐 Using Prisma ORM to standardize Database design and backend operations. 
 - 🗃️ Learning PostgreSQL for advanced database management and optimization.
 -->
 - ✨ Exploring TypeScript to enhance JavaScript with static types for better code quality.

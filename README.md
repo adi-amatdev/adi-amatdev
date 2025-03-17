@@ -23,7 +23,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 
 <!--
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,linux,ubuntu,mongodb,postgres,dynamodb,py,ts,nodejs,js,npm,html,css,express,flask,postman,vscode,git,github&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,linux,ubuntu,mongodb,prisma,postgres,dynamodb,py,ts,nodejs,js,npm,html,css,express,flask,postman,vscode,git,github&perline=4)](https://skillicons.dev)
 -->
 
 ## 🌱 Currently Exploring

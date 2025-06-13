@@ -17,7 +17,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,aws,bash,linux,ubuntu,mongodb,prisma,postgres,dynamodb,py,ts,nodejs,js,npm,html,css,express,flask,postman,vscode,git,github&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,aws,bash,linux,ubuntu,mongodb,prisma,postgres,dynamodb,py,ts,nodejs,js,npm,nginx,html,css,express,flask,postman,vscode,git,prisma,github,vercel&perline=10" alt="My Skills" />
   </a>
 </div>
 
@@ -35,7 +35,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 -->
 - ✨ Exploring TypeScript to enhance JavaScript with static types for better code quality.
 - 🔍 Investigating diverse frameworks and libraries to stay current with industry trends.
-- ☁️ Deeply exploring AWS technologies and AWS SDKs to optimize cloud infrastructure and services.
+- ☁️ Exploring Cloudflare, AWS technologies and AWS SDKs to optimize cloud infrastructure and services.
 
 
  ## 🏆 Achievements

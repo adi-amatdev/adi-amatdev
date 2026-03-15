@@ -29,6 +29,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 
 ## 🌱 Currently Exploring
 
+- 🧠 Implementing and exploring AI systems and technologies.
 - 🚀 Perfecting the MERN stack (MongoDB, Express, React, Node.js) to build full-stack applications.
 <!-- 
 - 🌐 Using Prisma ORM to standardize Database design and backend operations. 

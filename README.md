@@ -6,7 +6,7 @@ I'm a CS Graduate from the class of 2024, fueled by great ambition and armed wit
 ## 🚀 About Me
 
 <!-- 🔭 I'm currently working at [iTAS Innovations Pvt. Ltd](https://itasin.com/). -->
-- 💼🤝🏽 Currently looking for job opportunities in the Full Stack AI engineering field.
+- 💼🤝🏽 Currently looking for job opportunities in the Full Stack,Backend or AI engineering field.
 - 📝 I dive deep into problem statements, enjoying the process of understanding and architecting end-to-end solutions.
 
 <!--
